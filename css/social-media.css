@@ -1,0 +1,59 @@
+.social-media{
+    grid-area: social-media;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    justify-content: flex-end;
+    transition: all 1s;
+}
+
+a.youtube:hover{
+    background-color: #CF09A4;
+}
+.youtube{
+    height: 3rem;
+    width: 3rem;
+    border-radius: 50%;
+    border: solid 2px white;
+    display: grid;
+    place-items: center;
+    font-size: 1.43rem;
+}
+a.twitter:hover{
+    background-color: #CF09A4;
+}
+.twitter{
+    height: 3rem;
+    width: 3rem;
+    border-radius: 50%;
+    border: solid 2px white;
+    display: grid;
+    place-items: center;
+    font-size: 1.43rem;
+}
+a.instagram:hover{
+    background-color: #CF09A4;
+}
+.instagram{
+    height: 3rem;
+    width: 3rem;
+    border-radius: 50%;
+    border: solid 2px white;
+    display: grid;
+    place-items: center;
+    font-size: 1.43rem;
+}
+a.facebook:hover{
+    background-color: #CF09A4;
+}
+.facebook{
+    height: 3rem;
+    width: 3rem;
+    border-radius: 50%;
+    border: solid 2px white;
+    display: grid;
+    place-items: center;   
+    font-size: 1.43rem;
+}
+
